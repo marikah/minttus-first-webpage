@@ -1,0 +1,12 @@
+body {
+  /* background-image: `url(${kuvat[0]})`;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(255, 0, 0);*/
+}
+#cat {
+  width: 100%;
+}
+#horse {
+  width: 100%;
+}
